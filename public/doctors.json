@@ -1,0 +1,360 @@
+[
+  {
+    "docPathName": "dr-jaydip-mangroliya",
+    "imgpath":"jd-profile.png",
+    "docName":"Dr. Jaydip Mangroliya",
+    "specialty":"D.M. Nuerology",
+    "desc":"Dr. Jaydip Mangroliya has completed his Doctorate of Medicine (D.M.) in the field of Neurology from renowned Manipal Academy of Higher ...",
+    "fulldesc":"Dr. Jaydip Mangroliya has completed his Doctorate of Medicine (D.M.) in the field of Neurology from renowned Manipal Academy of Higher Education, located in the university town of Manipal, Udupi, Karnataka, India in 2020. He had completed his Doctor of Medicine (M.D.) from SMT. NHL Municipal Medical College (V. S. Hospital) – ahmedabad, gujarat - India in 2017 and M.B.B.S. from B.J. Medical College and Civil hospital, situated in ahmedabad, gujarat - India in 2014. His willingness and desire to learn new things keeps him up to date with the latest innovations in the field of neurology.",
+    "phone":"78743 55907",
+    "email":"shivaay.clinic@gmail.com",
+    "workinghours" : [
+      {"day":  "Monday", "time": "9.00AM-8.00PM"},
+      {"day":  "Tuesday", "time": "9.00AM-8.00PM"},
+      {"day":  "Wednesday", "time": "9.00AM-8.00PM"},
+      {"day":  "Sunday", "time": "9.00AM-8.00PM"}
+    ],
+    "treatments": [
+      {
+        "name": "Dementia",
+        "imgpath": "dementia.webp",
+        "desc": "Dementia is a common disease which might progress with age. Need not to worry as we are here to help you."
+      },
+      {
+        "imgpath":"migraine.png",
+        "name":"Migraine",
+        "desc":"A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound. We are here to help you."
+      },
+      {
+        "imgpath":"headache.webp",
+        "name":"Headache",
+        "desc":"For all your headaches and related problems contact us. Our expert team of doctors will help you out."
+      },
+      {
+        "imgpath":"parkinson.webp",
+        "name":"Parkinson's Disease",
+        "desc":"Our expert doctors help with controlling Parkinson disease. Book an immediate appointment with us."
+      },
+      {
+        "imgpath":"tremor.webp",
+        "name":"Tremor",
+        "desc":"Our doctors are highly trained & well experienced in dealing with neurological problems like tremors."
+      },
+      {
+        "imgpath":"peripheral-nueropathy.webp",
+        "name": "Neuropathy",
+        "desc":"Numbness in hands and feet may be due to peripheral neuropathy. Book an appointment for prompt and prolific diagnosis."
+      },
+      {
+        "imgpath": "nueropathic-pain.webp",
+        "name": "Neuropathic Pain",
+        "desc":"Our doctors are fully proficient to deal with this chronic pain that is usually accompanied by tissue injury."
+      },
+      {
+        "imgpath":"epilepsy.webp",
+        "name":"Epilepsy",
+        "desc":"Epilepsy can be controlled. Let our expert doctors help you out with best care and advanced treatments."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Doctorate of Medicine ( D.M. ) in Neurology",
+        "from": "Manipal Academy of Higher Education, Udupi, Karnataka"
+      },
+      {
+        "degree": "Doctor of Medicine ( M.D. )",
+        "from": "SMT. NHL Municipal Medical College (V. S. Hospital) – Ahmedabad, Gujarat"
+      },
+      {
+        "degree": "M.B.B.S",
+        "from": "B.J. Medical College and Civil hospital – Ahmedabad, Gujarat"
+      }
+    ]
+  },
+  {
+    "docPathName": "coming-soon",
+    "imgpath":"team-image2.jpg",
+    "docName":"Coming Soon...",
+    "specialty":"D.M. Gastroenterology & Hepatolog",
+    "desc":"",
+    "fulldesc":"",
+    "phone":"96242 60132",
+    "email":"shivaay.clinic@gmail.com",
+    "workinghours" : [
+      {"day":  "Monday", "time": "6.00PM-8.00PM"},
+      {"day":  "Wednesday", "time": "6.00PM-8.00PM"},
+      {"day":  "Friday", "time": "6.00PM-8.00PM"}
+    ],
+    "treatments" : [],
+    "education": [
+      {
+        "degree": "Doctorate of Medicine ( D.M. ) in Gastroenterology and Hepatology",
+        "from": "Manipal Academy of Higher Education, Udupi, Karnataka"
+      },
+      {
+        "degree": "Doctor of Medicine ( M.D. )",
+        "from": "SMT. NHL Municipal Medical College (V. S. Hospital) – Ahmedabad, Gujarat"
+      },
+      {
+        "degree": "M.B.B.S",
+        "from": "SMT. NHL Municipal Medical College (V. S. Hospital) – Ahmedabad, Gujarat"
+      }
+    ]
+  },
+  {
+    "docPathName": "dr-mohit-kejariwal",
+    "imgpath":"dr-mohit.jpg",
+    "docName":"Dr. Mohit Kejariwal",
+    "specialty":"D.M. Cardiology",
+    "desc":"Dr. Mohit P. Kejariwal has completed his Doctorate of Medicine (D.M.) in the field of Cardiology from renowned G.S.V.M. Medical College, Kanpur...",
+    "fulldesc":"Dr. Mohit P. Kejariwal has completed his Doctorate of Medicine (D.M.) in the field of Cardiology from renowned G.S.V.M. Medical College, Kanpur, known for its academic excellence world over in 2020. Dr. Mohit is an Interventional Cardiologist. He has experience in ECG, Adult & Pediatric Echo, TMT, Holter, Ambulatory BP monitoring, CT coronary angiography, Pericardiocentesis, Pacemaker and Angiography/Angioplasty. He is also a second-degree holder in the Reiki method of natural healing. With him, you can experience a unique blend of natural healing and modern treatment.",
+    "phone":"75678 77845",
+    "email":"drmohitpk@gmail.com",
+    "workinghours" : [
+      {"day":  "Monday", "time": "11.00AM-12.00PM"},
+      {"day":  "Tuesday", "time": "11.00AM-12.00PM"},
+      {"day":  "Wednesday", "time": "11.00AM-12.00PM"},
+      {"day":  "Thursday", "time": "11.00AM-12.00PM"},
+      {"day":  "Friday", "time": "11.00AM-12.00PM"},
+      {"day":  "Saturday", "time": "11.00AM-12.00PM"}
+    ],
+    "treatments" : [
+      {
+        "name": "Angina",
+        "imgpath": "dementia.webp",
+        "desc": "Angina is a type of chest pain caused by reduced blood flow to the heart. Need not to worry as we are here to help you."
+      },
+      {
+        "name": "Myocardial Infarction",
+        "imgpath": "dementia.webp",
+        "desc": "A myocardial infarction (MI), commonly known as a heart attack, occurs when blood flow decreases or stops to a part of the heart, causing damage to the heart muscle."
+      },
+      {
+        "name": "Cardiomyopathy",
+        "imgpath": "dementia.webp",
+        "desc": "Cardiomyopathy is a disease of the heart muscle that makes it harder for your heart to pump blood to the rest of your body. We are here to help you."
+      },
+      {
+        "name": "Stroke",
+        "imgpath": "dementia.webp",
+        "desc": "Stroke is when the blood supply to the brain is interrupted, causing a part of the brain to die."
+      },
+      {
+        "name": "Rheumatic Heart Disease",
+        "imgpath": "dementia.webp",
+        "desc": "Rheumatic heart disease is a condition in which the heart valves have been permanently damaged by rheumatic fever. Book an appointment for prompt and prolific diagnosis."
+      },
+      {
+        "name": "Carditis",
+        "imgpath": "dementia.webp",
+        "desc": "Carditis is the inflammation of the heart. Let our expert doctors help you out with best care and advanced treatments."
+      },
+      {
+        "name": "Aortic Aneurysms",
+        "imgpath": "dementia.webp",
+        "desc": "An aortic aneurysm is an abnormal bulge that occurs in the wall of the major blood vessel (aorta) that carries blood from your heart to your body."
+      },
+      {
+        "name": "Abnormal Heart Rhythms",
+        "imgpath": "dementia.webp",
+        "desc": "Heart rhythm problems (heart arrhythmias) occur when the electrical impulses that coordinate your heartbeats don't work properly, causing your heart to beat too fast, too slow or irregularly."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Doctorate of Medicine ( D.M. ) in Cardiology",
+        "from": "G.S.V.M. Medical College, Kanpur"
+      },
+      {
+        "degree": "Doctor of Medicine ( M.D. )",
+        "from": "SMT. NHL Municipal Medical College (V. S. Hospital) – Ahmedabad, Gujarat"
+      },
+      {
+        "degree": "M.B.B.S",
+        "from": "B.J. Medical College and Civil hospital – Ahmedabad, Gujarat"
+      }
+    ]
+  },
+  {
+    "docPathName": "dr-manish-sadhwani",
+    "imgpath":"dr-manish.jpeg",
+    "docName":"Dr. Manish Sadhwani",
+    "specialty":"M.Ch. Oncology",
+    "desc":"Dr. Manish Sadhwani has completed his master of chirurgiae (M.Ch.) in field of surgical oncology (Cancer Surgery) from renowned...",
+    "fulldesc":"Dr. Manish Sadhwani has completed his master of chirurgiae (M.Ch.) in field of surgical oncology (Cancer Surgery) from renowned Gujarat Cancer and Research Institute affiliated to New Civil Hospital, Ahmedabad in 2020. He got an advance training in Gastroenterology cancer surgery from Japan.",
+    "phone":"97253 69794",
+    "email":"sadhwanimanish2@gmail.com",
+    "workinghours" : [
+      {"day":  "Monday", "time": "10.00AM-12.00PM"},
+      {"day":  "Tuesday", "time": "10.00AM-12.00PM"},
+      {"day":  "Wednesday", "time": "10.00AM-12.00PM"},
+      {"day":  "Thursday", "time": "10.00AM-12.00PM"},
+      {"day":  "Friday", "time": "10.00AM-12.00PM"},
+      {"day":  "Saturday", "time": "10.00AM-12.00PM"}
+    ],
+    "treatments" : [
+      {
+        "name": "Oral Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "Cancer that develops in any part of the mouth."
+      },
+      {
+        "name": "Thyroid Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "A cancer of the thyroid, the butterfly-shaped gland at the base of the neck."
+      },
+      {
+        "name": "Brest Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "A cancer that forms in the cells of the breasts. We are here to help you."
+      },
+      {
+        "name": "Lung Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "A cancer that begins in the lungs and most often occurs in people who smoke. Need not to worry as we are here to help you."
+      },
+      {
+        "name": "GI Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "GI cancer refers to malignant conditions of the gastrointestinal tract (GI tract) and accessory organs of digestion. Book an appointment for prompt and prolific diagnosis."
+      },
+      {
+        "name": "Gynec Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "Gynecologic cancer is any cancer that starts in a woman's reproductive organs. Let our expert doctors help you out with best care and advanced treatments."
+      },
+      {
+        "name": "Urology Cancer",
+        "imgpath": "dementia.webp",
+        "desc": "Urologic cancers affect the organs and structures of the male and female urinary system and the male reproductive system."
+      },
+      {
+        "name": "Minimal Access Surgery",
+        "imgpath": "dementia.webp",
+        "desc": "Dr. Manish Sadhwani is a Dynamic Surgeon skilled in Minimal Access Surgeries."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Chirurgiae ( M.Ch. ) in field of Surgical Oncology(Cancer Surgery)",
+        "from": "Gujarat Cancer and Research Institute, Ahmedabad , Gujarat"
+      }
+    ]
+  },
+  {
+    "docPathName": "dr-dhiren-raval",
+    "imgpath":"dr-dhiren.jpg",
+    "docName":"Dr. Dhiren Raval",
+    "specialty":"DNB Rheumatology",
+    "desc":"Dr. Dhiren N. Raval has completed his DNB Rheumatology - from Medanta the medicity - Gurgaon and...",
+    "fulldesc":"Dr. Dhiren N. Raval has completed his DNB Rheumatology - from Medanta the medicity - Gurgaon and DNB medicine from Jalsok hospital - Mumbai.",
+    "phone":"NA",
+    "email":"NA",
+    "workinghours" : [
+      {"day":  "Monday", "time": "2.00PM-4.00PM"},
+      {"day":  "Tuesday", "time": "2.00PM-4.00PM"},
+      {"day":  "Wednesday", "time": "2.00PM-4.00PM"},
+      {"day":  "Thursday", "time": "2.00PM-4.00PM"},
+      {"day":  "Friday", "time": "2.00PM-4.00PM"}
+    ],
+    "treatments" : [
+      { "desc": "",
+        "imgpath":"",
+        "name": "Rheumatoid Arthritis (RA)" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Spondyloarthritis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Sjogren's Syndrome" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Psoriatic Arthritis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Osteo Arthritis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Osteoporosis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Gout" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Systemic lupus erythematosus (SLE)" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Juvenile Idiopathic Arthritis (JIA)" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Scleroderma" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Viral Arthritis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Vasculitis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Myositis" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Soft Tissue Rheumatism (Tennis elbow, frozen shoulder, Plantar fasciitis, Carpal tunnel syndrome, Fibromyalgia)" },
+      { "desc": "",
+        "imgpath":"",
+        "name": "Joint Injection"}
+    ],
+    "education": [
+      {
+        "degree": "DNB Rheumatology",
+        "from": "Medanta the medicity - Gurgaon"
+      },
+      {
+        "degree": "Doctor of Medicine ( M.D. )",
+        "from": "Jalsok hospital - Mumbai Maharashtra"
+      }
+    ]
+  },
+  {
+    "docPathName": "dr-fenil-patel",
+    "imgpath":"dr-fenil.jpg",
+    "docName":"Dr. Fenil Patel",
+    "specialty":"Diploma in Dermatology, Venereology & Leprosy",
+    "desc":"Dr. Fenil Patel has completed his DDVL (Diploma in Dermatology, Venereology & Leprosy) from renowned Kasturba Medical college, Manipal, Karnataka and...",
+    "fulldesc":"Dr. Fenil Patel has completed his DDVL (Diploma in Dermatology, Venereology & Leprosy) from renowned Kasturba Medical college, Manipal, Karnataka and MBBS – B.J. Medical college, Ahmedabad, Gujarat. Dr. Fenil Patel is Trained in Laser and Asthetics under well known dermatologist of India DR. Koushik Lahiri (Wizderm Speciality Skin And Hair Clinic, Kolkata). Author of two chapters in text book of postgraduate dermatology.",
+    "phone":"NA",
+    "email":"NA",
+    "workinghours" : [
+      {"day":  "Tuesday", "time": "1.00PM-3.00PM"},
+      {"day":  "Thursday", "time": "1.00PM-3.00PM"}
+    ],
+    "treatments" : [
+      { "desc": "", "imgpath": "", "name": "Diagnosis and treatment of skin disease, sexually transmitted disease and leprosy"},
+      { "desc": "", "imgpath": "", "name": "Cryotherapy"},
+      { "desc": "", "imgpath": "", "name": "Electrodessication"},
+      { "desc": "", "imgpath": "", "name": "Chemical cautery"},
+      { "desc": "", "imgpath": "", "name": "Phototherapy"},
+      { "desc": "", "imgpath": "", "name": "Immunofluorescence  for dermatology"},
+      { "desc": "", "imgpath": "", "name": "Vitiligo surgery"},
+      { "desc": "", "imgpath": "", "name": "Chemical peel"},
+      { "desc": "", "imgpath": "", "name": "Nail surgery"},
+      { "desc": "", "imgpath": "", "name": "Derma rolling and PRP for hair loss"},
+      { "desc": "", "imgpath": "", "name": "PRF for non healing ulcers"},
+      { "desc": "", "imgpath": "", "name": "Laser hair reduction – by DIODE  LASER"},
+      { "desc": "", "imgpath": "", "name": "Acne scar treatment- Fractional CO2 LASER , Derma rolling"},
+      { "desc": "", "imgpath": "", "name": "RF micro needling"},
+      { "desc": "", "imgpath": "", "name": "Patch test and Photo Patch test"},
+      { "desc": "", "imgpath": "", "name": "Mesotherapy"}
+    ],
+    "education": [
+      {
+        "degree": "Diploma in Dermatology, Venereology & Leprosy",
+        "from": "Kasturba Medical college, Manipal, Karnataka"
+      },
+      {
+        "degree": "M.B.B.S",
+        "from": "B.J. Medical college, Ahmedabad, Gujarat"
+      }
+    ]
+  }
+]

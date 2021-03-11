@@ -1,0 +1,78 @@
+.Header { }
+
+.Header {
+    background: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    display: flex;
+    height: 45px;
+}
+
+.Header .col-md-8 {
+    padding-right: 0;
+}
+
+.Header p,
+.Header span {
+    font-size: 12px;
+    line-height: 24px;
+    padding-top: 12px;
+}
+
+.Header a,
+.Header span {
+    color: #747474;
+}
+
+.Header span {
+    font-weight: 500;
+    display: inline-block;
+    padding: 11px 15px;
+}
+
+.Header span.date-icon {
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+    padding-right: 19px;
+    padding-left: 19px;
+}
+
+.Header span i {
+    color: #1076bc;
+    margin-right: 5px;
+}
+
+.Header span.date-icon {
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+    padding-right: 19px;
+    padding-left: 19px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .Header {
+        height: inherit;
+    }
+    .Header span.date-icon {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .Header span.email-icon {
+        padding-top: 0;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .Header {
+        padding-bottom: 10px;
+    }
+    .Header .text-align-right {
+        text-align: left;
+    }
+    .Header span {
+        padding-top: 0;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+}
