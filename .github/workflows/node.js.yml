@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --global user.email "vdhanshah@gmail.com"
           git config --global user.name "vdhanshah"
-          git remote set-url origin https://${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}@github.com/vdhanshah>/shivaay-static-src.git
+          git remote set-url origin https://${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}@github.com/vdhanshah/shivaay-static-src.git
           npm run deploy
