@@ -14,7 +14,7 @@ const header = props => {
                             <p>Welcome to Shivaay Super Speciality Clinic</p>
                         </div>
                         <div className="col-md-8 col-sm-7 text-align-right">
-                            <span className="phone-icon"><i className="fa fa-phone"></i> 78743 55907</span>
+                            <span className="phone-icon"><i className="fa fa-phone"></i> 97277 27716</span>
                             <span className="date-icon"><i className="fa fa-calendar-plus-o"></i> 6:00 AM - 10:00 PM (Mon-Fri)</span>
                             <span className="email-icon"><i className="fa fa-envelope-o"></i>
                                 <span>shivaay.clinic@gmail.com</span></span>

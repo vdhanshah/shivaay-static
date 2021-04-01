@@ -178,8 +178,8 @@ class Main extends Component {
                 </section>
                 <section id="google-map">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14682.261805931586!2d72.6544622!3d23.0763877!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5da3d3b90a6fc7d7!2sParvati%20Jadav%20Hospital!5e0!3m2!1sen!2sin!4v1603109427691!5m2!1sen!2sin"
-                        width="100%" height="350" frameBorder="0" style={{border: "0"}} allowFullScreen title="Shivaay Location"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.94701345281!2d72.64127021465436!3d23.062404084932865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e87d91a921baf%3A0x5cac92ebcbb85d5d!2sShivaay%20superspeciality%20clinic!5e0!3m2!1sen!2sin!4v1617249005741!5m2!1sen!2sin"
+                        width="100%" height="350" frameBorder="0" style={{border: "0"}} allowFullScreen="" loading="lazy"></iframe>
                 </section>
                 <footer data-stellar-background-ratio="5" ref={this.references.contactRef}>
                     <div className="container-fluid">
@@ -193,7 +193,7 @@ class Main extends Component {
                                     <span>Ahmedabad, Gujarat 382330</span>
 
                                     <div className="contact-info">
-                                        <p><i className="fa fa-phone"></i> 78743 55907</p>
+                                        <p><i className="fa fa-phone"></i> 97277 27716</p>
                                         <p><i className="fa fa-envelope-o"></i> <span>shivaay.clinic@gmail.com</span></p>
                                     </div>
                                 </div>
