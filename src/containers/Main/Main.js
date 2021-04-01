@@ -177,7 +177,7 @@ class Main extends Component {
                     </div>
                 </section>
                 <section id="google-map">
-                    <iframe
+                    <iframe title="Shivaay Super Speciality Clinic"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.94701345281!2d72.64127021465436!3d23.062404084932865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e87d91a921baf%3A0x5cac92ebcbb85d5d!2sShivaay%20superspeciality%20clinic!5e0!3m2!1sen!2sin!4v1617249005741!5m2!1sen!2sin"
                         width="100%" height="350" frameBorder="0" style={{border: "0"}} allowFullScreen="" loading="lazy"></iframe>
                 </section>
