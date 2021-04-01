@@ -74,8 +74,8 @@
   {
     "docPathName": "coming-soon",
     "imgpath":"team-image2.jpg",
-    "docName":"Coming Soon...",
-    "specialty":"D.M. Gastroenterology & Hepatolog",
+    "docName":"D.M. Gastroenterology & Hepatology",
+    "specialty":"",
     "desc":"",
     "fulldesc":"",
     "phone":"96242 60132",
@@ -248,7 +248,7 @@
     "specialty":"DNB Rheumatology",
     "desc":"Dr. Dhiren N. Raval has completed his DNB Rheumatology - from Medanta the medicity - Gurgaon and...",
     "fulldesc":"Dr. Dhiren N. Raval has completed his DNB Rheumatology - from Medanta the medicity - Gurgaon and DNB medicine from Jalsok hospital - Mumbai.",
-    "phone":"NA",
+    "phone":"96191 77085",
     "email":"NA",
     "workinghours" : [
       {"day":  "Monday", "time": "2.00PM-4.00PM"},
@@ -322,7 +322,7 @@
     "specialty":"Diploma in Dermatology, Venereology & Leprosy",
     "desc":"Dr. Fenil Patel has completed his DDVL (Diploma in Dermatology, Venereology & Leprosy) from renowned Kasturba Medical college, Manipal, Karnataka and...",
     "fulldesc":"Dr. Fenil Patel has completed his DDVL (Diploma in Dermatology, Venereology & Leprosy) from renowned Kasturba Medical college, Manipal, Karnataka and MBBS – B.J. Medical college, Ahmedabad, Gujarat. Dr. Fenil Patel is Trained in Laser and Asthetics under well known dermatologist of India DR. Koushik Lahiri (Wizderm Speciality Skin And Hair Clinic, Kolkata). Author of two chapters in text book of postgraduate dermatology.",
-    "phone":"NA",
+    "phone":"84602 24151",
     "email":"NA",
     "workinghours" : [
       {"day":  "Tuesday", "time": "1.00PM-3.00PM"},

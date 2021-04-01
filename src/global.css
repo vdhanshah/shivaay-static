@@ -1139,6 +1139,10 @@ http://www.tooplate.com/view/2098-health
   margin-top: 25px;
 }
 
+.cursor {
+  cursor: pointer;
+}
+
 /*---------------------------------------
    RESPONSIVE STYLES
 -----------------------------------------*/
@@ -1157,11 +1161,35 @@ http://www.tooplate.com/view/2098-health
       padding-right: 15px;
       padding-left: 15px;
     }
+    .page-title-item-two{
+      top: 42%;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    h1 {
+      font-size: 4em;
+    }
+    h2 {
+      font-size: 2.5em;
+    }
+    h3 {
+      font-size: 1.5em;
+    }
+    .navbar-nav .nav-link {
+      padding-right: 15px;
+      padding-left: 15px;
+    }
+    .page-title-item-two{
+      top: 42%;
+    }
   }
 
   @media only screen and (max-width: 992px) {
     .slider .item {
       background-position: center;
+    }
+    .page-title-item-two{
+      top: 42%;
     }
   }
 

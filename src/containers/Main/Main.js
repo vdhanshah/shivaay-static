@@ -203,8 +203,7 @@ class Main extends Component {
                                 <div className="footer-thumb">
                                     <div className="opening-hours">
                                         <h4 className="wow fadeInUp" data-wow-delay="0.4s">Opening Hours</h4>
-                                        <p>Monday - Friday <span>06:00 AM - 10:00 PM</span></p>
-                                        <p>Saturday <span>09:00 AM - 08:00 PM</span></p>
+                                        <p>Monday - Saturday <span>09:00 AM - 8:00 PM</span></p>
                                         <p>Sunday <span>Closed</span></p>
                                     </div>
 
@@ -217,7 +216,7 @@ class Main extends Component {
                             </div>
 
                             <div className="col-md-5 col-sm-5" style={{ top: "-25px"}}>
-                                <img src={logo} alt="Shivaay Logo" className="img-responsive"/>
+                                <img src={logo} alt="Shivaay Logo" className="img-responsive" />
                             </div>
 
                             <div className="col-md-10 col-sm-10">

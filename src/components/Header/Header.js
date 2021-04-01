@@ -3,6 +3,7 @@ import classes from './Header.module.css'
 import {Form, Nav, Navbar} from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import logoThumb from "../../assets/images/logo-thumb.png";
+import {withRouter} from "react-router";
 
 const header = props => {
     return (
@@ -15,7 +16,7 @@ const header = props => {
                         </div>
                         <div className="col-md-8 col-sm-7 text-align-right">
                             <span className="phone-icon"><i className="fa fa-phone"></i> 97277 27716</span>
-                            <span className="date-icon"><i className="fa fa-calendar-plus-o"></i> 6:00 AM - 10:00 PM (Mon-Fri)</span>
+                            <span className="date-icon"><i className="fa fa-calendar-plus-o"></i> 9:00 AM - 8:00 PM (Monday-Saturday)</span>
                             <span className="email-icon"><i className="fa fa-envelope-o"></i>
                                 <span>shivaay.clinic@gmail.com</span></span>
                         </div>
@@ -29,7 +30,7 @@ const header = props => {
                 zIndex: '500'
             }}>
                 <Navbar expand="md">
-                    <Navbar.Brand href="#home"><img src={logoThumb} className="img-responsive" alt=""/></Navbar.Brand>
+                    <Navbar.Brand><img src={logoThumb} className="img-responsive cursor" alt="" onClick={() => props.history.push("/")} /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-auto">
@@ -48,4 +49,4 @@ const header = props => {
         </>
     );
 }
-export default header;
+export default withRouter(header);
